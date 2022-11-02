@@ -85,7 +85,7 @@ nav {
 .home-page ul {
     font-size: 20px;
     list-style-type: none;
-    display: flexbox;
+    display:inline-flex;
     text-align: center;
     padding: 15px;
 }
